@@ -15,6 +15,9 @@ body{
   max-width: 960px;
   margin: 0 auto;
 }
+.topBar{
+  background-color: #c1dff0;
+}
 .header{
   display: flex;
   justify-content: space-between;
