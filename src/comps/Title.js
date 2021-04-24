@@ -8,11 +8,12 @@ const Title = () => {
       </div>
       <div className="title">
         <div className="header">
-          <div>
+          <div
+          >
             <img
               src={welcome}
               alt="welcome"
-              style={{ height: 200, width: 500 }}
+              className="img"
             />
           </div>
           <div>
